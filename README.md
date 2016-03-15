@@ -3,6 +3,8 @@ This software package contains a Barnes-Hut implementation of the t-SNE algorith
 
 # Change #
 I added code to visual data in image format. 
+![](https://github.com/layumi/bhtsne/blob/master/output.jpg)
+![](https://github.com/layumi/bhtsne/blob/master/output2.jpg)
 
 # Installation #
 
